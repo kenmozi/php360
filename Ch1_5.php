@@ -12,6 +12,9 @@
 
   $nomDeFamille="KAM";
   $prenom="Moussa";
-  $age=13;
+  $age=7;
   $classe: "CP2";
+
+
+
 ?>
